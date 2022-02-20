@@ -8,7 +8,7 @@ mmdetection
 
 ## How to use
 
-The deep learning part is based on the mmdetection framework, we recommend read the mmdetection documentation for further detail: https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html and https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html.
+The deep learning part is based on the mmdetection framework, we recommend read the mmdetection documentation for further detail: https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html.
 
 ### Configs
 
