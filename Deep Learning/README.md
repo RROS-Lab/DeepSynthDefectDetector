@@ -20,6 +20,7 @@ All model configurations and training/testing pipeline configurations are define
 2. Config training setting through mmdetection config file in folder **configs/**.
 3. Run **train.py** to start training, the trainer could be configured in the script. Config file could be selected by the statement *config=...*.  
 4. In order to do 2 Stage training, you can firstly do the first stage training, then save the pretrained model in **checkpoints/**, then in the second stage, load the pretrained model by *load_from=...* in config. 
+5. A scaled dataset can be created by hacking the annotation file by multiplying the image and annotation object.
 
 ### Testing
 
