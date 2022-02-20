@@ -8,7 +8,7 @@ mmdetection
 
 ## How to use
 
-The deep learning part is based on the mmdetection framework, we recommend read the mmdetection documentation for further detail: https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html
+The deep learning part is based on the mmdetection framework, we recommend read the mmdetection documentation for further detail: https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html and https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html.
 
 ### Configs
 
@@ -24,7 +24,5 @@ All model configurations and training/testing pipeline configurations are define
 ### Testing
 
 run "test.py --show" for testing
-
-Highly recommend reading: https://mmdetection.readthedocs.io/en/latest/2_new_data_model.html, then you will know how to use it in good detail
 
 ......
