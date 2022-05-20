@@ -9,6 +9,6 @@ The codebase consists of two subfolders:
 The Synthetic Image Generation module contains the Texture File of Carbon Fiber, Procedure to Generate your own texture and also talks about generation of synthetic images 
 The code, blender file and procedure to generate synthetic images can be found [here](https://github.com/RROS-Lab/DeepSynthDefectDetector/tree/master/SyntheticImageGeneration)
 
-## ResNest-based Image Segmentation Model
+## ResNeSt-based Image Segmentation Model
 The image segmentation module is based on the ResNest Framework
 The code and implementation details are discussed [here](https://github.com/RROS-Lab/DeepSynthDefectDetector/tree/master/ResNeSTImageSegmentation)
